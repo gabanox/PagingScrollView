@@ -1,0 +1,1 @@
+Proyecto de prueba que muestra los badges en un UIScrollView
